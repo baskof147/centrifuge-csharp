@@ -1,11 +1,10 @@
 {
-  "name": "baskof147/centrifuge",
+  "name": "com.baskof.centrifuge",
   "version": "1.0.0",
-  "displayName": "Centrifuge C# Client",
-  "description": "Unofficial Centrifugo C# client for Unity",
+  "displayName": "Centrifuge Client",
+  "description": "Client for Centrifugo v5",
   "unity": "2020.3",
   "author": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "baskof147"
   }
 }
