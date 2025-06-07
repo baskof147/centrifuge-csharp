@@ -1,5 +1,5 @@
 {
-  "name": "baskof147.centrifuge",
+  "name": "baskof147/centrifuge",
   "version": "1.0.0",
   "displayName": "Centrifuge C# Client",
   "description": "Unofficial Centrifugo C# client for Unity",
